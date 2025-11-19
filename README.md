@@ -1,4 +1,4 @@
-# Perlin Noise 2D
+# "Perlin Noise 2D"
 
 Gera uma imagem em escala de cinza usando ruído de Perlin 2D implementado do zero em `main.py`. É um exemplo educativo simples: sem dependência de bibliotecas de ruído externas, apenas a lógica básica (fade, gradientes e interpolação).
 
